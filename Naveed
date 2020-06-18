@@ -172,8 +172,8 @@ jalan("\033[0;93m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇
 jalan("\033[0;94m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶100%Done Proces") 
 print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;92mGangeLeader\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
 
-CorrectUsername = "Leader"
-CorrectPassword = "Arbab"
+CorrectUsername = "Naveed"
+CorrectPassword = "Ahmed"
 
 loop = 'true'
 while (loop == 'true'):
